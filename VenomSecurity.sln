@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VenomSecurity", "VenomSecurity.vbproj", "{5A003825-8FD7-4F54-B58B-216F345C3B3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A003825-8FD7-4F54-B58B-216F345C3B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A003825-8FD7-4F54-B58B-216F345C3B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A003825-8FD7-4F54-B58B-216F345C3B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A003825-8FD7-4F54-B58B-216F345C3B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {945037F2-6EE0-4FCC-85C0-78904CE55675}
+	EndGlobalSection
+EndGlobal
